@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Today - Data Tracker</title>
+<meta name="theme-color" content="#12263a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav id="nav"></nav>
+<main>
+<h1>Today</h1>
+<p class="muted">Last run: <span id="runtime">loading...</span></p>
+<p id="msg" class="msg" hidden></p>
+<div id="counts" class="counts"></div>
+<h2>Sources</h2>
+<div class="wrap"><table><thead><tr><th>Source</th><th>Status</th><th class="num">Items</th></tr></thead><tbody id="sources"></tbody></table></div>
+<h2>Biggest moves since the previous run</h2>
+<p class="muted">Change in temperature (°C) compared with the previous run of the same source.</p>
+<ul id="moves" class="postings moves"></ul>
+<p class="muted" id="changes"></p>
+<h2>Latest values</h2>
+<p class="muted">Small numbers show the change since the item's previous run.</p>
+<div class="wrap"><table><thead><tr id="headrow"></tr></thead><tbody id="latest"></tbody></table></div>
+</main>
+<script src="app.js"></script>
+<script src="today.js"></script>
+</body>
+</html>
