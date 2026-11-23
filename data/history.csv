@@ -1,0 +1,21 @@
+date,item_id,item,source,country,region,temp_c,feels_like_c,humidity_pct,wind_kmh,pressure_hpa
+2026-11-23,atlanta,Atlanta,weather-us,United States,North America,15.3,16.0,97,6.5,975.7
+2026-11-23,boston,Boston,weather-us,United States,North America,10.6,10.0,94,4.2,1015.2
+2026-11-23,cairo,Cairo,weather-world,Egypt,Africa,16.0,16.7,90,5.1,1017.6
+2026-11-23,chicago,Chicago,weather-us,United States,North America,6.1,2.9,82,10.8,987.0
+2026-11-23,denver,Denver,weather-us,United States,North America,1.7,-2.1,63,6.9,838.4
+2026-11-23,houston,Houston,weather-us,United States,North America,19.9,19.1,63,11.5,1012.6
+2026-11-23,london,London,weather-world,United Kingdom,Europe,5.8,2.6,71,8.6,1017.6
+2026-11-23,los-angeles,Los Angeles,weather-us,United States,North America,18.2,15.3,43,11.9,1005.7
+2026-11-23,mexico-city,Mexico City,weather-world,Mexico,North America,18.8,17.0,54,11.1,786.8
+2026-11-23,miami,Miami,weather-us,United States,North America,23.2,25.2,77,8.7,1014.0
+2026-11-23,mumbai,Mumbai,weather-world,India,Asia,23.1,24.2,63,5.2,1014.4
+2026-11-23,new-york,New York,weather-us,United States,North America,14.0,13.1,89,11.5,1009.4
+2026-11-23,paris,Paris,weather-world,France,Europe,8.0,5.7,93,10.8,1009.1
+2026-11-23,phoenix,Phoenix,weather-us,United States,North America,18.8,16.5,37,5.6,975.6
+2026-11-23,sao-paulo,Sao Paulo,weather-world,Brazil,South America,22.1,25.6,92,4.8,927.3
+2026-11-23,seattle,Seattle,weather-us,United States,North America,6.4,4.0,84,6.5,1009.7
+2026-11-23,singapore,Singapore,weather-world,Singapore,Asia,26.2,32.3,95,4.6,1008.3
+2026-11-23,sydney,Sydney,weather-world,Australia,Oceania,28.5,30.5,51,4.3,1002.5
+2026-11-23,tokyo,Tokyo,weather-world,Japan,Asia,7.3,4.8,60,3.1,1026.9
+2026-11-23,toronto,Toronto,weather-world,Canada,North America,8.0,6.1,68,1.5,997.4
