@@ -1,0 +1,12 @@
+[
+ {
+  "name": "weather-us",
+  "ok": true,
+  "count": 10
+ },
+ {
+  "name": "weather-world",
+  "ok": true,
+  "count": 10
+ }
+]
