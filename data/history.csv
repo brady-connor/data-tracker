@@ -39,3 +39,23 @@ date,item_id,item,source,country,region,temp_c,feels_like_c,humidity_pct,wind_km
 2026-11-24,sydney,Sydney,weather-world,Australia,Oceania,18.2,16.7,69,15.1,1013.1
 2026-11-24,tokyo,Tokyo,weather-world,Japan,Asia,9.3,5.6,48,9.8,1002.7
 2026-11-24,toronto,Toronto,weather-world,Canada,North America,3.0,-1.4,50,9.7,1020.7
+2026-11-25,atlanta,Atlanta,weather-us,United States,North America,8.4,3.0,59,23.2,983.4
+2026-11-25,boston,Boston,weather-us,United States,North America,5.9,2.8,64,6.9,1040.9
+2026-11-25,cairo,Cairo,weather-world,Egypt,Africa,20.9,19.6,49,8.7,1018.1
+2026-11-25,chicago,Chicago,weather-us,United States,North America,4.2,-2.0,67,27.1,1002.8
+2026-11-25,denver,Denver,weather-us,United States,North America,5.4,1.6,38,4.7,845.2
+2026-11-25,houston,Houston,weather-us,United States,North America,10.1,6.4,60,16.2,1022.6
+2026-11-25,london,London,weather-world,United Kingdom,Europe,5.5,1.3,71,15.1,1012.0
+2026-11-25,los-angeles,Los Angeles,weather-us,United States,North America,17.6,15.5,45,6.2,1007.6
+2026-11-25,mexico-city,Mexico City,weather-world,Mexico,North America,15.2,14.3,64,3.2,789.2
+2026-11-25,miami,Miami,weather-us,United States,North America,22.4,25.3,93,10.5,1010.3
+2026-11-25,mumbai,Mumbai,weather-world,India,Asia,28.0,28.4,45,8.8,1014.2
+2026-11-25,new-york,New York,weather-us,United States,North America,6.0,1.2,53,15.7,1036.0
+2026-11-25,paris,Paris,weather-world,France,Europe,5.1,2.6,92,7.6,1005.2
+2026-11-25,phoenix,Phoenix,weather-us,United States,North America,19.6,15.7,28,12.2,979.8
+2026-11-25,sao-paulo,Sao Paulo,weather-world,Brazil,South America,28.7,31.5,60,11.6,929.4
+2026-11-25,seattle,Seattle,weather-us,United States,North America,12.2,8.5,70,19.9,1009.6
+2026-11-25,singapore,Singapore,weather-world,Singapore,Asia,24.1,29.7,100,4.1,1007.2
+2026-11-25,sydney,Sydney,weather-world,Australia,Oceania,17.6,18.6,88,5.9,1013.4
+2026-11-25,tokyo,Tokyo,weather-world,Japan,Asia,5.6,3.2,68,2.1,1016.7
+2026-11-25,toronto,Toronto,weather-world,Canada,North America,2.7,-2.1,74,17.2,1027.2
