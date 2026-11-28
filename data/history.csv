@@ -99,3 +99,23 @@ date,item_id,item,source,country,region,temp_c,feels_like_c,humidity_pct,wind_km
 2026-11-27,sydney,Sydney,weather-world,Australia,Oceania,20.7,22.1,91,14.0,1005.9
 2026-11-27,tokyo,Tokyo,weather-world,Japan,Asia,10.4,10.0,92,1.8,1011.3
 2026-11-27,toronto,Toronto,weather-world,Canada,North America,4.2,-0.1,96,19.6,983.0
+2026-11-28,atlanta,Atlanta,weather-us,United States,North America,6.6,3.4,76,10.7,977.8
+2026-11-28,boston,Boston,weather-us,United States,North America,8.0,4.0,81,18.9,997.3
+2026-11-28,cairo,Cairo,weather-world,Egypt,Africa,21.4,22.7,66,1.8,1010.4
+2026-11-28,chicago,Chicago,weather-us,United States,North America,4.7,0.9,84,14.5,976.2
+2026-11-28,denver,Denver,weather-us,United States,North America,10.7,6.6,42,11.8,828.6
+2026-11-28,houston,Houston,weather-us,United States,North America,15.2,14.6,75,5.4,1013.9
+2026-11-28,london,London,weather-world,United Kingdom,Europe,7.5,4.5,93,14.4,1014.0
+2026-11-28,los-angeles,Los Angeles,weather-us,United States,North America,13.3,12.0,79,8.7,1003.4
+2026-11-28,mexico-city,Mexico City,weather-world,Mexico,North America,7.1,5.6,93,3.2,785.9
+2026-11-28,miami,Miami,weather-us,United States,North America,19.5,19.9,78,10.4,1019.7
+2026-11-28,mumbai,Mumbai,weather-world,India,Asia,27.6,28.3,54,13.1,1015.3
+2026-11-28,new-york,New York,weather-us,United States,North America,7.2,2.5,77,21.7,999.1
+2026-11-28,paris,Paris,weather-world,France,Europe,5.0,1.0,64,11.5,1019.5
+2026-11-28,phoenix,Phoenix,weather-us,United States,North America,10.3,8.0,67,6.8,974.1
+2026-11-28,sao-paulo,Sao Paulo,weather-world,Brazil,South America,22.4,25.6,86,9.2,929.1
+2026-11-28,seattle,Seattle,weather-us,United States,North America,5.5,3.2,91,6.3,1014.4
+2026-11-28,singapore,Singapore,weather-world,Singapore,Asia,25.6,32.3,100,2.4,1009.6
+2026-11-28,sydney,Sydney,weather-world,Australia,Oceania,20.7,22.2,93,14.3,995.5
+2026-11-28,tokyo,Tokyo,weather-world,Japan,Asia,12.5,10.9,63,4.0,996.9
+2026-11-28,toronto,Toronto,weather-world,Canada,North America,6.6,3.9,87,9.6,988.0
